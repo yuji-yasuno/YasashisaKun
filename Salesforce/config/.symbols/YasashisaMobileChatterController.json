@@ -1,0 +1,48 @@
+{
+    "properties": [
+        {
+            "modifiers": [], 
+            "name": "entityId", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 16, 
+                "line": 2
+            }, 
+            "type": "String"
+        }
+    ], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [
+        {
+            "modifiers": [], 
+            "name": "YasashisaMobileChatterController", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 9, 
+                "line": 3
+            }, 
+            "type": null
+        }
+    ], 
+    "namespace": null, 
+    "name": "YasashisaMobileChatterController", 
+    "tableDeclaration": {
+        "type": "YasashisaMobileChatterController", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 27, 
+            "line": 1
+        }, 
+        "name": "YasashisaMobileChatterController"
+    }, 
+    "key": "01p10000000lPes", 
+    "variables": [], 
+    "id": "01p10000000lPes", 
+    "methods": []
+}

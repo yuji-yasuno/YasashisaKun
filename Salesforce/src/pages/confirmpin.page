@@ -1,0 +1,11 @@
+<apex:page >
+  {!URLFOR($Resource.pin, 'pin_pink1.png')}<br/>
+  {!URLFOR($Resource.pin, 'pin_pink2.png')}<br/>
+  {!URLFOR($Resource.pin, 'pin_pink3.png')}<br/>
+  {!URLFOR($Resource.pin, 'pin_blue1.png')}<br/>
+  {!URLFOR($Resource.pin, 'pin_blue2.png')}<br/>
+  {!URLFOR($Resource.pin, 'pin_blue3.png')}<br/>
+  {!URLFOR($Resource.pin, 'pin_green1.png')}<br/>
+  {!URLFOR($Resource.pin, 'pin_green2.png')}<br/>
+  {!URLFOR($Resource.pin, 'pin_green3.png')}<br/>
+</apex:page>

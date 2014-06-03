@@ -1,0 +1,19 @@
+{
+    "username": "yyasuno+namiecho@salesforce.com", 
+    "environment": "production", 
+    "project_name": "Contest - S1 World Tour Japan 2014\uff08\u6d6a\u6c5f\u753a\uff09", 
+    "workspace": "/Users/yasunoyuji/Documents/workspace/mavensmate", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "WP2DZC84OQC890P83AVHV63939LI75F6", 
+    "metadata_container": "1dc10000000HIBTAA4", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}

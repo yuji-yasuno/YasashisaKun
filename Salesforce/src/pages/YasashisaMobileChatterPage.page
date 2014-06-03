@@ -1,0 +1,13 @@
+<apex:page showHeader="false" sidebar="false" controller="YasashisaMobileChatterController">
+	<style type="text/css">
+		body {
+			background-color: rgb(242, 230, 214);
+		}
+		#wrapper {
+			padding: 40px 20px;
+		}
+	</style>
+	<div id="wrapper">
+		<chatter:feed entityId="{!entityId}"/>
+	</div>
+</apex:page>
